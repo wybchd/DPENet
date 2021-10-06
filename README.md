@@ -1,1 +1,1 @@
-Are you OK?
+Please come back after some time.
