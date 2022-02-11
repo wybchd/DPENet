@@ -27,11 +27,11 @@ if __name__ == '__main__':
     lr_list = []
     loss_list = []
 
-    inputPathTrain = './inputTrain/'
-    targetPathTrain = './targetTrain/'
-    inputPathTest = './inputTest/'
-    resultPathTest = './resultTest/'
-    targetPathTest = './targetTest/'
+    inputPathTrain = './data/inputTrain/'
+    targetPathTrain = './data/targetTrain/'
+    inputPathTest = './data/inputTest/'
+    resultPathTest = './data/resultTest/'
+    targetPathTest = './data/targetTest/'
     best_psnr = 0
     best_epoch = 0
 
