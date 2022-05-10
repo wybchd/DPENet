@@ -33,7 +33,12 @@ python test.py
 If you find this project useful in your research, please consider citing:
 
 ```
-~~~~~~
+@article{gao2022heavy,
+      title={From Heavy Rain Removal to Detail Restoration: A Faster and Better Network}, 
+      author={Tao Gao and Yuanbo Wen and Jing Zhang and Kaihao Zhang and Ting Chen},
+      journal={arXiv preprint arXiv:2205.03553},
+      year={2022},
+}
 ```
 
 ## contact
